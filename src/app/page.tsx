@@ -42,7 +42,9 @@ export default function Home() {
           className="h-4/5 w-full top-0 left-0 object-scale-down"
         />
         <div className="h-1/5 w-full flex flex-col items-center justify-center">
-          <h2 className="text-2xl">Track your habits and stay consistent</h2>
+          <h2 className="text-2xl text-center">
+            Track your habits and stay consistent
+          </h2>
         </div>
       </div>
       <div className="flex flex-col justify-center items-center w-full h-1 mt-8 sm:mt-20 mb-8 sm:mb-20"></div>
@@ -56,7 +58,7 @@ export default function Home() {
           className="h-4/5 w-full top-0 left-0 object-scale-down"
         />
         <div className="h-1/5 w-full flex flex-col items-center justify-center">
-          <h2 className="text-2xl">
+          <h2 className="text-2xl text-center">
             Track not only progress on good habits but also on bad ones!
           </h2>
         </div>
@@ -71,7 +73,7 @@ export default function Home() {
           className="h-4/5 w-full top-0 left-0 object-scale-down"
         />
         <div className="h-1/5 w-full flex flex-col items-center justify-center">
-          <h2 className="text-2xl">
+          <h2 className="text-2xl text-center">
             Very simple to use! No data leaves your phone!
           </h2>
         </div>

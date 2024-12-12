@@ -31,7 +31,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="p-8 sm:p-20 font-[family-name:var(--font-geist-sans)] h-screen snap-y snap-mandatory scroll-m-0">
+        <div className="p-8 sm:p-20 font-[family-name:var(--font-geist-sans)] h-screen overflow-x-hidden">
           {children}
           <Footer />
         </div>

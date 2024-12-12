@@ -11,7 +11,9 @@ export default function Footer() {
           eiilo
         </a>
       </span>
-      <span>All rights reserved &copy; 2024 GoodHabitBadHabit</span>
+      <span className="text-center">
+        All rights reserved &copy; 2024 GoodHabitBadHabit
+      </span>
     </footer>
   );
 }
