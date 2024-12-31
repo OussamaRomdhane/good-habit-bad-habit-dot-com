@@ -10,7 +10,7 @@ export default function Logo() {
         width={100}
         alt="GoodHabitBadHabit logo"
       />
-      <h1 className="text-4xl font-bold">
+      <h1 className="text-4xl font-bold mx-6">
         <span className="text-good-habit dark:text-good-habit-dark">
           GoodHabit
         </span>
